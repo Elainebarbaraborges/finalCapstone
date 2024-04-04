@@ -10,7 +10,7 @@ This is a simple task manager application implemented in Python. It allows users
 
 To clone this repository, run the following command:
 
-git clone <https://github.com/Elainebarbaraborges/task_manager>
+git clone <https://github.com/Elainebarbaraborges/finalCapstone>
 
 ---
 
@@ -84,6 +84,13 @@ python main.py
 ## Error Handling
 
 Error handling is implemented for various scenarios such as incorrect user input and file operations. Exceptions are caught and appropriate error messages are displayed to the user.
+
+---
+
+## Screenshots
+
+![image](https://github.com/Elainebarbaraborges/finalCapstone/assets/145275292/d13a49a4-18ec-4da9-ae85-94f37426d1d8)
+
 
 ---
 
